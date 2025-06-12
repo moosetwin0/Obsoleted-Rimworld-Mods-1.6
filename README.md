@@ -16,5 +16,6 @@ Mods that people think are obsoleted but probably aren't: (please don't create i
 - [Planning Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159)
 - [Replace Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=1372003680)
 - [Caravan Formation Improvements](https://steamcommunity.com/sharedfiles/filedetails/?id=2927335733)
+- [Designator Shapes](https://steamcommunity.com/sharedfiles/filedetails/?id=1235181370) (though a lot of functionality *is* added)
 
 o7
