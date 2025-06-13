@@ -18,7 +18,7 @@ If there are obsoleted mods that aren't listed here, create a pull request or is
 | [Real Ruins](https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295) | Are the 'abandoned colonies' player-made? |
 
 Please do not create issues about these:
-| Mods that some people think are obsoleted but probably aren't | Reason |
+| Mods that some people think are obsoleted but probably aren't |
 | --- |
 | [Save Our Ship 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131) |
 | [Planning Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159) |
