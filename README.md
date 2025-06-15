@@ -16,6 +16,7 @@ If there are obsoleted mods that aren't listed here, create a pull request or is
 | 1.6 | [Recipe icons (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2904906618) |
 | 1.6 | [[FSF] Better Pawn Lending Quest](https://steamcommunity.com/sharedfiles/filedetails/?id=2551381293) |
 | 1.6 | [Mud Conduits](https://steamcommunity.com/sharedfiles/filedetails/?id=2885459267) |
+| 1.6 | [Scaria Contamination](https://steamcommunity.com/sharedfiles/filedetails/?id=2556306247) |
 | Odyssey | TBD |
 
 | Could go either way, we need more info about the new stuff | Reason |
@@ -23,6 +24,8 @@ If there are obsoleted mods that aren't listed here, create a pull request or is
 | [Armor Racks](https://steamcommunity.com/sharedfiles/filedetails/?id=1875828205) | Are there any upgraded racks? Can they be placed outside of the ship? |
 | [Real Ruins](https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295) | Are the 'abandoned colonies' player-made? |
 | [RocketMan](https://steamcommunity.com/sharedfiles/filedetails/?id=2479389928) | Does the new update implement the same performance changes? |
+| [Performance Fish](https://github.com/bbradson/performance-fish) | Same as RocketMan |
+| [Performance Optimizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2664723367) | Same as RocketMan |
 
 | Implemented in | Mods that are partially implemented but are not obsolete | Optional reason |
 | --- | --- | --- |
