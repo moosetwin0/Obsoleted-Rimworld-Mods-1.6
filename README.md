@@ -25,7 +25,7 @@ If there are obsoleted mods that aren't listed here, create a pull request or is
 | [RocketMan](https://steamcommunity.com/sharedfiles/filedetails/?id=2479389928) | Does the new update implement the same performance changes? |
 
 | Implemented in | Mods that are partially implemented but are not obsolete | Optional reason |
-| --- | --- |
+| --- | --- | --- |
 | Odyssey | [Save Our Ship 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131) | |
 | 1.6 | [Planning Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159) | |
 | 1.6 | [Replace Stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=1372003680) | Can replace much more with the mod |
@@ -33,6 +33,6 @@ If there are obsoleted mods that aren't listed here, create a pull request or is
 | 1.6 | [Designator Shapes](https://steamcommunity.com/sharedfiles/filedetails/?id=1235181370) | Missing some shapes |
 | 1.6 | [Deep Water Bridges](https://steamcommunity.com/sharedfiles/filedetails/?id=3424595776) | Missing the garden bridge |
 | 1.6 | [Clean Pathfinding 2 Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=3260446812) and [Perfect Pathfinding](https://steamcommunity.com/sharedfiles/filedetails/?id=3474403869) | 1.6 only has multithreading changes |
-| 1.6 | [Better Policies (Switch & Make Default)](https://steamcommunity.com/sharedfiles/filedetails/?id=3400923070) |
+| 1.6 | [Better Policies (Switch & Make Default)](https://steamcommunity.com/sharedfiles/filedetails/?id=3400923070) | |
 
 o7
