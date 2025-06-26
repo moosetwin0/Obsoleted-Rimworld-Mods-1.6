@@ -1,3 +1,5 @@
+Something's come up, I can't work on this anymore. Apologies for how short this has lasted.
+
 If there are obsoleted mods that aren't listed here, create a pull request or issue and I'll add them
 
 | Obsoleted by | Mod Name/Link |
